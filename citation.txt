@@ -1,0 +1,7 @@
+@inproceedings{REPO227,
+    author = "Ding, Yujia and Li, Huan and Chen, Ke and Shou, Lidan",
+    booktitle = "Proceedings of the 32nd ACM International Conference on Information and Knowledge Management",
+    pages = "410--419",
+    title = "{TPUF: Enhancing Cross-domain Sequential Recommendation via Transferring Pre-trained User Features}",
+    year = "2023"
+}
