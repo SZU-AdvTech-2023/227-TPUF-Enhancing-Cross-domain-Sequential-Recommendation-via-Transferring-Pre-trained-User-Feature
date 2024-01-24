@@ -1,0 +1,17 @@
+batch_size,128
+dataset,CDs_and_Vinyl
+dataset_path,/home/temp_user/wudongqi/Archive/TPUF/data/v1/branch/v1.2/data/cross_data/
+device,cuda
+dropout_rate,0.5
+gpu,2
+hidden_units,50
+inference_only,False
+l2_emb,0.001
+lr,0.001
+maxlen,100
+num_blocks,2
+num_epochs,500
+num_heads,1
+state_dict_path,None
+time_span,256
+train_dir,default

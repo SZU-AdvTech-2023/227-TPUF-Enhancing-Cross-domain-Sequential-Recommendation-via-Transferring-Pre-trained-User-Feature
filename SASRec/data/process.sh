@@ -1,0 +1,1 @@
+python process.py -x Books -y Movies_and_TV -z CDs_and_Vinyl
